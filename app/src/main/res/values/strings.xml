@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FixiGoPageImplement</string>
+    <string name="Item">Item</string>
+    <string name="Add">Add</string>
+    <string name="Package">Package</string>
+     <string name="qty">QTY</string>
+    <string name="date">Date</string>
+    <string name="amount">Amount</string>
+    <string name="comment">comment</string>
+    <string name="select_page">Select Page</string>
+    <string name="price">Price</string>
+    <string name="name">Name</string>
+    <string name="_999_00">999.00</string>
+    <string name="add">Add</string>
+</resources>
